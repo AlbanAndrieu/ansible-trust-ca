@@ -41,4 +41,4 @@ galaxy_info:
     - pki
 dependencies:
   - role: andrewrothstein.tls
-    versions: v0.1.0
+    versions: master
